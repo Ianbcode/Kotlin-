@@ -1,0 +1,2 @@
+Hello,
+This is an text file to test Koltin problem 4 is working correctly.
